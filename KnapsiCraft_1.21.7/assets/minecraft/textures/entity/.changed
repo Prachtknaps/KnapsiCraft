@@ -14,9 +14,9 @@
 🔲 chest_boat
 🔲 chicken
 🔲 conduit
-🔲 cow
+✅ cow
 🔲 creaking
-🔲 creeper
+✅ creeper
 🔲 decorated_pot
 🔲 end_crystal
 🔲 enderdragon
@@ -34,7 +34,7 @@
 🔲 llama
 🔲 panda
 🔲 parrot
-🔲 pig
+✅ pig
 🔲 piglin
 🔲 player
 🔲 projectiles
@@ -51,7 +51,7 @@
 🔲 strider
 🔲 tadpole
 🔲 turtle
-🔲 villager
+✅ villager
 🔲 warden
 🔲 wither
 🔲 wolf
@@ -83,5 +83,5 @@
 🔲 spider_eyes.png
 🔲 trident.png
 🔲 trident_riptide.png
-🔲 wandering_trader.png
+✅ wandering_trader.png
 🔲 witch.png

@@ -8,8 +8,8 @@
 🔲 breeze
 🔲 camel
 🔲 cat
-🔲 chicken
-🔲 cow
+✅ chicken
+✅ cow
 🔲 creaking
 🔲 creeper
 🔲 dolphin
@@ -45,10 +45,10 @@
 🔲 pufferfish
 🔲 rabbit
 🔲 ravager
-🔲 sheep
+✅ sheep
 🔲 silverfish
-🔲 skeleton
-🔲 slime
+✅ skeleton
+✅ slime
 🔲 sniffer
 🔲 spider
 🔲 squid
@@ -62,7 +62,7 @@
 🔲 wandering_trader
 🔲 warden
 🔲 wither
-🔲 wither_skeleton
+✅ wither_skeleton
 🔲 wolf
 🔲 zoglin
 🔲 zombie
